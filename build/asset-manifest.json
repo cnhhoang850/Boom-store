@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc9ecb8f.chunk.css",
+    "main.js": "/static/js/main.0f4cdd8f.chunk.js",
+    "main.js.map": "/static/js/main.0f4cdd8f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3efe526d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3efe526d.js.map",
+    "static/js/2.a6196aa8.chunk.js": "/static/js/2.a6196aa8.chunk.js",
+    "static/js/2.a6196aa8.chunk.js.map": "/static/js/2.a6196aa8.chunk.js.map",
+    "static/js/3.a06b0817.chunk.js": "/static/js/3.a06b0817.chunk.js",
+    "static/js/3.a06b0817.chunk.js.map": "/static/js/3.a06b0817.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cc9ecb8f.chunk.css.map": "/static/css/main.cc9ecb8f.chunk.css.map",
+    "static/js/2.a6196aa8.chunk.js.LICENSE.txt": "/static/js/2.a6196aa8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/cell-bg.cdde54e4.jpg",
+    "static/media/tea.bcac3a05.png": "/static/media/tea.bcac3a05.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3efe526d.js",
+    "static/js/2.a6196aa8.chunk.js",
+    "static/css/main.cc9ecb8f.chunk.css",
+    "static/js/main.0f4cdd8f.chunk.js"
+  ]
+}
